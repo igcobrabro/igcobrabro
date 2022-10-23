@@ -2,8 +2,8 @@
 
 <h2 align="left">Hi 👋, I'm Uday T Y</h2>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
-<a href="https://linkedin.com/in/uday-t-y-72b737208" target="_blank"><img align="center" src="https://img.shields.io/badge/-Uday_T_Y-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/uday-t-y-72b737208" style="max-width: 100%;" /></a>
-<a href="mailto:udayty12@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-udayty12@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:udayty12@gmail.com" alt="Gmail Badge" style="max-width: 100%;"></a>
+<a target="_blank" href="https://linkedin.com/in/uday-t-y-72b737208" ><img align="center" src="https://img.shields.io/badge/-Uday_T_Y-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/uday-t-y-72b737208" style="max-width: 100%;" /></a>
+<a target="_blank" href="mailto:udayty12@gmail.com" ><img align="center" src="https://img.shields.io/badge/-udayty12@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:udayty12@gmail.com" alt="Gmail Badge" style="max-width: 100%;"></a>
 <ul></ul>
 
 💻 Things I Know:(some are under learning)
@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/udayty12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udayty12" height="30" width="40" /></a>
-<a href="https://instagram.com/igcobrabro" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igcobrabro" height="30" width="40" /></a>
+<a target="_blank" href="https://twitter.com/udayty12"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udayty12" height="30" width="40" /></a>
+<a target="_blank" href="https://instagram.com/igcobrabro" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igcobrabro" height="30" width="40" /></a>
 </p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=igcobrabro&show_icons=true&locale=en&layout=compact&theme=dark" alt="igcobrabro" /></p>
 <h3 align="left">🛠Tech Stack</h3>
@@ -46,4 +46,4 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/udayty12" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="udayty12" /></a></p><br><br>
+<p><a target="_blank" href="https://www.buymeacoffee.com/udayty12" > <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="udayty12" /></a></p><br><br>
