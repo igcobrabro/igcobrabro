@@ -46,4 +46,4 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/udayty12"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="udayty12" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/udayty12" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="udayty12" /></a></p><br><br>
